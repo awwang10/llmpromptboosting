@@ -57,3 +57,5 @@ python dynamicprompting.py --dataset=gsm8k --min_agreement=1.0 --seed 0 --prompt
 python dynamicprompting.py --dataset=mmlu570 --split=train --min_agreement=0.9 --size_limit=300 --seed 0 --prompt_mode boosted --tag TRAIN_BASE
 python dynamicprompting.py --dataset=mmlu570 --min_agreement=0.9 --seed 0 --boosted_prompts=logs/mmlu570_boosted/code-davinci-002_300_0.9_0_append_TRAIN_BASE.pickle --tag BASE
 ```
+
+This code is built off the official implementation of [Large Language Models are Zero-Shot Reasoners]:(https://github.com/kojima-takeshi188/zero_shot_cot)
