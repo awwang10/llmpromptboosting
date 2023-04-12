@@ -54,6 +54,7 @@ def last_boxed_only_string(string: str):
 
     return retval
 
+
 def get_answer(solution):
     if solution is None:
         return None
@@ -65,66 +66,69 @@ def get_answer(solution):
         return None
     return answer
 
-if __name__ == '__main__':
-  np.random.seed(0)
 
-  # Make Test Set
+if __name__ == "__main__":
+    np.random.seed(0)
 
-  problems = defaultdict(lambda: [])
-  dataset = load_dataset('competition_math', split='test')
+    # Make Test Set
 
+    problems = defaultdict(lambda: [])
+    dataset = load_dataset("competition_math", split="test")
 
-  for p in dataset:
-    a = get_answer(p['solution'])
-    try:
-      assert '_' not in a
-      assert '\n' not in p['problem']
-      z = float(a)
-      assert z.is_integer()
-    except:
-      continue
-    p['answer'] = get_answer(p['solution'])
-    problems[(p['level'],p['type'])].append(p)
-    
-  res = []
+    for p in dataset:
+        a = get_answer(p["solution"])
+        try:
+            assert "_" not in a
+            assert "\n" not in p["problem"]
+            z = float(a)
+            assert z.is_integer()
+        except:
+            continue
+        p["answer"] = get_answer(p["solution"])
+        problems[(p["level"], p["type"])].append(p)
 
-  for p in problems.values():
-    assert len(p) >= 12
-    res += list(np.random.choice(p, 12, replace=False))
-    
-  np.random.shuffle(res)
+    res = []
 
-  if not os.path.exists(os.path.join('dataset','cmath420')):
-    os.makedirs(os.path.join('dataset','cmath420'))
-    
-  with open(os.path.join('dataset','cmath420','cmath420.json'), 'w') as f:
-    json.dump(res, f)
-    
-  # Make Prompt
+    for p in problems.values():
+        assert len(p) >= 12
+        res += list(np.random.choice(p, 12, replace=False))
 
-  dataset = load_dataset('competition_math', split='train')
+    np.random.shuffle(res)
 
-  candidates = []
-  for p in dataset:
-    if p['level'] == 'Level 1' and p['type'] == 'Prealgebra':
-      a = get_answer(p['solution'])
-      try:
-        assert '_' not in a
-        assert '\n' not in p['solution']
-        assert '\n' not in p['problem']
-        z = float(a)
-        assert z.is_integer()
-      except:
-        continue
-      p['answer'] = get_answer(p['solution'])
-      candidates.append(p)
-      
-  prompt = np.random.choice(candidates, 8, replace=False)
+    if not os.path.exists(os.path.join("dataset", "cmath420")):
+        os.makedirs(os.path.join("dataset", "cmath420"))
 
-  s = '\n\n'.join(f"Q: {p['problem']}\nA: {p['solution']} The answer is {p['answer']}." for p in prompt)
+    with open(os.path.join("dataset", "cmath420", "cmath420.json"), "w") as f:
+        json.dump(res, f)
 
-  if not os.path.exists('prompts'):
-    os.makedirs('prompts')
-    
-  with open(os.path.join('prompts','cmath420.txt'), 'w') as f:
-    f.write(s)
+    # Make Prompt
+
+    dataset = load_dataset("competition_math", split="train")
+
+    candidates = []
+    for p in dataset:
+        if p["level"] == "Level 1" and p["type"] == "Prealgebra":
+            a = get_answer(p["solution"])
+            try:
+                assert "_" not in a
+                assert "\n" not in p["solution"]
+                assert "\n" not in p["problem"]
+                z = float(a)
+                assert z.is_integer()
+            except:
+                continue
+            p["answer"] = get_answer(p["solution"])
+            candidates.append(p)
+
+    prompt = np.random.choice(candidates, 8, replace=False)
+
+    s = "\n\n".join(
+        f"Q: {p['problem']}\nA: {p['solution']} The answer is {p['answer']}."
+        for p in prompt
+    )
+
+    if not os.path.exists("prompts"):
+        os.makedirs("prompts")
+
+    with open(os.path.join("prompts", "cmath420.txt"), "w") as f:
+        f.write(s)
