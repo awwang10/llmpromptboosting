@@ -1,0 +1,23 @@
+Q: Compute $\left(\sqrt{625681}\right)^2$.
+A: For any nonnegative number $n$, the value of $\sqrt{n}$ is the number whose square is $n$.  So, when we square $\sqrt{n}$, we get $n$.  Therefore, $\left(\sqrt{625681}\right)^2 = \boxed{625681}$. The answer is 625681.
+
+Q: Find $160\div \left(10+11\cdot 2\right)$.
+A: Recall that we must perform the operations inside the parentheses first.  So, we must simplify $10+11\cdot 2$ first.  Of these operations, we must do the multiplication and then the addition because multiplication and division must be done before addition and subtraction.  We get \begin{align*}10+11\cdot 2 &=10+22 \\ &=32.\end{align*}Now, we substitute back into the original expression and do the division.  Therefore, \begin{align*}160\div \left(10+11\cdot 2\right)&=160\div 32 \\ &=\boxed{5}.\end{align*} The answer is 5.
+
+Q: What number, when divided by 2, gives the same result as when 2 is subtracted from it?
+A: If we let $x =$ the number that we want to find, we know that $x/2$ must equal $x-2$. Multiplying both sides of the equation $x/2=x-2$ by $2$, we have that $x=2x-4$, so $x=\boxed{4}$. The answer is 4.
+
+Q: What is the result when we compute $$1^3 + 2^3 + 3^3 + 4^3 + \dots + 99^3 + 100^3 $$and  $$(-1)^3 + (-2)^3 + (-3)^3 + (-4)^3 + \dots + (-99)^3 + (-100)^3,$$and then add the two results?
+A: Recall that $(-a)^3=-a^3$. Thus, our second sum can be rewritten as  $$ (-1^3) + (-2^3) + (-3^3) + (-4^3) + \dots + (-99^3) + (-100^3).$$When we add this with  $$1^3 + 2^3 + 3^3 + 4^3 + \dots + 99^3 + 100^3, $$we can pair the terms conveniently: \[1^3 + (-1^3) + 2^3 + (-2^3)+ 3^3 + (-3^3) + \dots + 100^3 + (-100^3). \]Because any number plus its negation is zero, each of these pairs of terms sum to zero, and the sum of the entire sequence is $\boxed{0}$. The answer is 0.
+
+Q: A particular triangle has sides of length 14 cm, 8 cm and 9 cm. In centimeters, what is the perimeter of the triangle?
+A: The perimeter of a polygon is defined to be the sum of the measures of the sides of the polygon.  Therefore, the perimeter of a triangle whose sides measure 14 cm, 8 cm, and 9 cm is $\boxed{31}$ centimeters. The answer is 31.
+
+Q: A basketball player made the following number of free throws in 8 successive games: 6, 18, 15, 14, 19, 12, 19, and 15. What is the median number of successful free throws?
+A: To find the median, we first arrange the number of successful free throws in increasing numerical order: $$6,12,14,15,15,18,19,19.$$ Since there is an even number of terms, the median can be found the by averaging the middle two (the fourth and the fifth) terms. Both the fourth and the fifth terms are $15$, so the median number of successful free throws that the basketball player made is $\boxed{15}$. The answer is 15.
+
+Q: Find $1^{234} + 4^6 \div 4^4$.
+A: Since 1 raised to any power is 1, the expression equals $1 + 4^6 \div 4^4$. Also recall that $\frac{a^m}{a^n}=a^{m-n}$, so we can simplify the last term to get $1+4^{6-4}=1+4^2=1+16=\boxed{17}$. The answer is 17.
+
+Q: Marty wants to paint a box.  He can choose to use either blue, green, yellow, or black paint.  Also, he can style the paint by painting with a brush, a roller, or a sponge.  How many different combinations of color and painting method can Marty choose?
+A: Marty can choose his paint in 4 ways and his style in 3 ways.  Thus there are a total of $4\cdot 3 = \boxed{12}$ different combinations he can choose. The answer is 12.

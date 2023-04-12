@@ -1,0 +1,15 @@
+Q: Find the domain of the expression $\frac{\sqrt{x-2}}{\sqrt{5-x}}$. (a) [-5,-2), (b) [2,5), (c) [-2,-5), (d) [5,2)
+A: The expressions inside each square root must be non-negative. Therefore, $x-2 \ge 0$, so $x\ge2$, and $5 - x \ge 0$, so $x \le 5$. Also, the denominator cannot be equal to zero, so $5-x>0$, which gives $x<5$. Therefore, the domain of the expression is $\boxed{[2,5)}$. The answer is (b).
+
+Q: If $\det \mathbf{A} = 2$ and $\det \mathbf{B} = 12,$ then find $\det (\mathbf{A} \mathbf{B}).$ (a) 14, (b) 4, (c) 2, (d) A: We have that $\det (\mathbf{A} \mathbf{B}) = (\det \mathbf{A})(\det \mathbf{B}) = (2)(12) = \boxed{24}.$ The answer is (d).
+
+Q: Terrell usually lifts two 20-pound weights 12 times. If he uses two 15-pound weights instead, how many times must Terrell lift them in order to lift the same total weight? (a) 12, (b) 20, (c) 16, (d) 15
+A: If Terrell lifts two 20-pound weights 12 times, he lifts a total of $2\cdot 12\cdot20=480$ pounds of weight. If he lifts two 15-pound weights instead for $n$ times, he will lift a total of $2\cdot15\cdot n=30n$ pounds of weight. Equating this to 480 pounds, we can solve for $n$ as 480/30 = 16. The answer is (c).
+
+Q: If the system of equations
+\begin{align*}
+6x-4y&=a,\\
+6y-9x &=b.
+\end{align*}
+has a solution $(x, y)$ where $x$ and $y$ are both nonzero, find $\frac{a}{b},$ assuming $b$ is nonzero. (a) $-\frac{2}{3}$, (b) $\frac{2}{3}$, (c) $\frac{1}{3}$, (d) $\frac{4}{9}$
+A: If we multiply the first equation by $-\frac{3}{2}$, we obtain $$6y-9x=-\frac{3}{2}a. $$Since we also know that $6y-9x=b$, we have $$-\frac{3}{2}a=b\Rightarrow\frac{a}{b}=\boxed{-\frac{2}{3}}.$$ The answer is (a).

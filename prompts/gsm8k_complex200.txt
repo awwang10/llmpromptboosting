@@ -1,0 +1,73 @@
+Q: Van Helsing gets paid by the town to remove all the vampires and werewolves. He gets $5 per vampire and $10 per werewolf. He removes half the vampires and removes 8 werewolves, and earned $105. There were 4 times as many werewolves as vampires. What percentage of the werewolves did he remove?
+A: He earns $80 from werewolf removal because 8 x 10 = <<8*10=80>>80
+He earned $25 from vampire removal because 105 - 80 = <<105-80=25>>25
+He removed 5 vampires from town because 25 / 5 = <<25/5=5>>5
+There were 10 vampires because 5 / .5 = 10
+There were 40 werewolves because 4 x 10 = <<4*10=40>>40
+The proportion of werewolves that he removed was .2 because 8 / 40 = <<8/40=.2>>.2
+The percentage of werewolves removed was 20% because 100 x .2 = <<100*.2=20>>20. The answer is 20.
+
+Q: Karen's students are about to take a standardized test. Karen gets a $500 bonus if their average score is above 75, plus an extra $10 bonus for every additional point the average score increases above 75. So far, Karen has graded 8 tests, and the average is 70. Given that each student can have a maximum score of 150, what combined score do the last two tests need to have for Karen to earn a $600 bonus?
+A: First subtract $500 from Karen's goal bonus amount to find how much she makes from the extra $10/point bonus: $600 - $500 = $<<600-500=100>>100
+Then divide the extra bonus by the extra rate: $100 / $10/point = <<100/10=10>>10 points
+Then add the 10 extra points to the baseline 75 point goal to find the students' average test score: 10 points + 75 points = <<10+75=85>>85 points
+Then added the 8 graded tests to the 2 ungraded tests to find the total number of tests: 2 tests + 8 tests = <<2+8=10>>10 tests
+Then multiply the 85 point average by the number of tests to find the total number of points the students need to earn: 85 points/test * 10 tests = 850 points
+Then multiply the current average by the current number of graded tests to find how many points have been earned so far: 70 points/test * 8 tests = <<70*8=560>>560 points
+Then subtract the number of points earned from the number of points needed to find the combine score the last two tests need: 850 points - 560 points = <<850-560=290>>290 points. The answer is 290.
+
+Q: Martha needs to paint all four walls in her 12 foot by 16 foot kitchen, which has 10 foot high ceilings. Each wall needs one coat of primer and two coats of paint. If Martha can paint 40 square feet per hour, how many hours will it take her to paint the kitchen?
+A: There are two walls that are 12' X 10' and two walls that are 16' by 10'. First find the size in square feet of one 12' x 10' wall by multiplying the height and length: 12 ft * 10 ft = <<12*10=120>>120 sq ft
+Multiply that quantity by 2 since there are two 12' x 10' walls: 120 sq ft * 2 = <<120*2=240>>240 sq ft
+Then find the size in square feet of one 16' x 10' wall by multiplying the height and length: 16 ft * 10 ft = <<16*10=160>>160 sq ft
+Multiply that quantity by 2 since there are two 16' x 10' walls: 160 sq ft * 2 = <<160*2=320>>320 sq ft
+Now add the square footage of both sets of walls to find the total square footage Martha needs to paint: 240 sq ft+ 320 sq ft = <<240+320=560>>560 sq ft
+Now multiply that amount by 3 because Martha needs to add 3 coats: 560 sq ft/coat * 3 coats = <<560*3=1680>>1680 sq ft
+Finally, divide the total square footage by Martha's painting rate to find how many hours she needs to finish: 1680 sq ft / 40 sq ft/hour = <<1680/40=42>>42 hours. The answer is 42.
+
+Q: Corey downloaded two movie series from his Netflix account with 12 and 14 seasons per series, respectively. However, in the week, his computer got a mechanical failure, and he lost two episodes from each season for both series. If each season in the movie series that Corey downloaded had 16 episodes, how many episodes remained after the computer's mechanical failure?
+A: In the first movie series with 12 seasons, after the mechanical failure, the number of episodes that Corey lost is 2*12 = <<2*12=24>>24
+Originally, the movie series with 12 seasons had 12*16 = <<12*16=192>>192 episodes.
+After the mechanical failure, Corey had 192-24 = <<192-24=168>>168 episodes remaining in the first movie series.
+Similarly, the 14 season movie series also had 14*2 = <<14*2=28>>28 lost after the computer's mechanical failure.
+Originally, the movie series with 14 seasons has 14*16 = <<14*16=224>>224 episodes.
+The mechanical failure of the computer reduced the number of episodes in the 14 season movie series to 224-28 = <<224-28=196>>196
+After the loss, Corey had 196+168 = <<196+168=364>>364 episodes remaining from the two movie series he had downloaded. The answer is 364.
+
+Q: Johnny is a dog walker. He can walk 3 dogs at once. He gets paid $15 for a 30-minute walk and $20 for a 60-minute walk. Johnny works for 4 hours per day. If he always walks the maximum number of dogs possible and 6 dogs have 60-minute walks per day, how much money does he make in a week where he works 5 days?
+A: Johnny spends 6/3=2 hours walking the 6 dogs who have 60-minute walks.
+He makes $20*6=$<<20*6=120>>120 for these walks.
+Thus, he has 4-2=2 hours=120 minutes left to walk the other dogs.
+He can walk 3*(120/30)=<<3*(120/30)=12>>12 dogs in this time.
+Thus, he will make $15*12=$<<12*15=180>>180 on these walks.
+In total per day, he makes $120+$180=$<<120+180=300>>300 per day.
+Thus, during the week, he makes $300*5=$<<300*5=1500>>1500. The answer is 1500.
+
+Q: Together 3 friends watched 411 short videos. Kelsey watched 43 more than Ekon. Ekon watched 17 less than Uma. How many videos did Kelsey watch?
+A: Let U = the number of videos Uma watched
+Ekon = U - 17
+Kelsey = (U - 17) + 43 = U + <<(-17)+43=26>>26
+U + U - 17 + U + 26 = 411
+3U + 9 = 411
+3U = 402
+U = <<134=134>>134
+Kelsey = 134 + 26 = <<134+26=160>>160 videos
+Kelsey watched 160 videos. The answer is 160.
+
+Q: Bucky earns money each weekend catching and selling fish. He wants to save up for a new video game, which costs $60. Last weekend he earned $35. He can earn $5 from trout and $4 from blue-gill. He caught five fish this Sunday. If 60% were trout, and the rest were blue-gill, how much more does he need to save before he can buy the game?
+A: He is $25 short for the game because 60 - 35 = <<60-35=25>>25
+He caught 3 trout because 5 x .6 = <<5*.6=3>>3
+He caught 2 blue-gill because 5 - 3 = <<5-3=2>>2
+He earned $15 from the trout because 3 x 5 = <<3*5=15>>15
+He earned $8 from the blue-gill because 2 x 4 = <<2*4=8>>8
+He earned $23 total because 15 + 8 = <<15+8=23>>23
+He is $2 short because 25 - 23 = <<25-23=2>>2. The answer is 2.
+
+Q: Stella and Twinkle are filling up a truck with a capacity of 6000 stone blocks at the rate of 250 blocks per hour per person. They work for four hours and are then joined by 6 other people who also work at the same rate. How many hours did filling the truck take?
+A: Stella and Twinkle filled up the truck at the rate of 250 blocks per hour per person, a total of 2*250 = <<250*2=500>>500 blocks per hour for both.
+After working for four hours, Stella and Twinkle had filled 4*500 = <<4*500=2000>>2000 blocks into the truck.
+The number of blocks they had to put into the truck for it to be full is 6000-2000 = <<6000-2000=4000>>4000
+When 6 more people joined Stella and Twinkle, a total of 2+6 = <<2+6=8>>8 people were filling the truck now.
+Working at the rate of 250 blocks per person, the eight people filled the truck with 250*8 = <<250*8=2000>>2000 blocks in one hour.
+If there were 4000 blocks that still needed to be put into the truck, the 8 people took 4000/2000 = <<4000/2000=2>>2 hours to fill the truck with the blocks.
+The total time it took to fill up the tank is 4+2 = <<4+2=6>>6 hours. The answer is 6.

@@ -1,0 +1,87 @@
+Q: In a certain school, 2/3 of the male students like to play basketball, but only 1/5 of the female students like to play basketball. What percent of the population of the school do not like to play basketball if the ratio of the male to female students is 3:2 and there are 1000 students?
+A: The students are divided into 3 + 2 = <<3+2=5>>5 parts where 3 parts are for males and 2 parts are for females.
+Each part represents 1000/5 = <<1000/5=200>>200 students.
+So, there are 3 x 200 = <<3*200=600>>600 males.
+And there are 2 x 200 = <<2*200=400>>400 females.
+Hence, 600 x 2/3 = 400 males play basketball.
+And 400 x 1/5 = <<400*1/5=80>>80 females play basketball.
+A total of 400 + 80 = <<400+80=480>>480 students play basketball.
+Therefore, 1000 - 480 = <<1000-480=520>>520 do not like to play basketball.
+The percentage of the school that do not like to play basketball is 520/1000 * 100 = <<520/1000*100=52>>52. The answer is 52.
+
+Q: Together 3 friends watched 411 short videos. Kelsey watched 43 more than Ekon. Ekon watched 17 less than Uma. How many videos did Kelsey watch?
+A: Let U = the number of videos Uma watched
+Ekon = U - 17
+Kelsey = (U - 17) + 43 = U + <<(-17)+43=26>>26
+U + U - 17 + U + 26 = 411
+3U + 9 = 411
+3U = 402
+U = <<134=134>>134
+Kelsey = 134 + 26 = <<134+26=160>>160 videos
+Kelsey watched 160 videos. The answer is 160.
+
+Q: You can buy 4 apples or 1 watermelon for the same price. You bought 36 fruits evenly split between oranges, apples and watermelons, and the price of 1 orange is $0.50. How much does 1 apple cost if your total bill was $66?
+A: If 36 fruits were evenly split between 3 types of fruits, then I bought 36/3 = <<36/3=12>>12 units of each fruit
+If 1 orange costs $0.50 then 12 oranges will cost $0.50 * 12 = $<<0.5*12=6>>6
+If my total bill was $66 and I spent $6 on oranges then I spent $66 - $6 = $<<66-6=60>>60 on the other 2 fruit types.
+Assuming the price of watermelon is W, and knowing that you can buy 4 apples for the same price and that the price of one apple is A, then 1W=4A
+If we know we bought 12 watermelons and 12 apples for $60, then we know that $60 = 12W + 12A
+Knowing that 1W=4A, then we can convert the above to $60 = 12(4A) + 12A
+$60 = 48A + 12A
+$60 = <<60=60>>60A
+Then we know the price of one apple (A) is $60/60= $<<60/60=1>>1. The answer is 1.
+
+Q: Mark's basketball team scores 25 2 pointers, 8 3 pointers and 10 free throws.  Their opponents score double the 2 pointers but half the 3 pointers and free throws.  What's the total number of points scored by both teams added together?
+A: Mark's team scores 25 2 pointers, meaning they scored 25*2= <<25*2=50>>50 points in 2 pointers.
+His team also scores 6 3 pointers, meaning they scored 8*3= 24 points in 3 pointers
+They scored 10 free throws, and free throws count as one point so they scored 10*1=<<10*1=10>>10 points in free throws.
+All together his team scored 50+24+10= <<50+24+10=84>>84 points
+Mark's opponents scored double his team's number of 2 pointers, meaning they scored 50*2=<<50*2=100>>100 points in 2 pointers.
+His opponents scored half his team's number of 3 pointers, meaning they scored 24/2= <<24/2=12>>12 points in 3 pointers.
+They also scored half Mark's team's points in free throws, meaning they scored 10/2=<<10/2=5>>5 points in free throws.
+All together Mark's opponents scored 100+12+5=<<100+12+5=117>>117 points
+The total score for the game is both team's scores added together, so it is 84+117=<<84+117=201>>201 points. The answer is 201.
+
+Q: Angelo and Melanie want to plan how many hours over the next week they should study together for their test next week. They have 2 chapters of their textbook to study and 4 worksheets to memorize. They figure out that they should dedicate 3 hours to each chapter of their textbook and 1.5 hours for each worksheet. If they plan to study no more than 4 hours each day, how many days should they plan to study total over the next week if they take a 10-minute break every hour, include 3 10-minute snack breaks each day, and 30 minutes for lunch each day?
+A: Angelo and Melanie think they should dedicate 3 hours to each of the 2 chapters, 3 hours x 2 chapters = <<3*2=6>>6 hours total.
+For the worksheets they plan to dedicate 1.5 hours for each worksheet, 1.5 hours x 4 worksheets = <<1.5*4=6>>6 hours total.
+Angelo and Melanie need to start with planning 12 hours to study, at 4 hours a day, 12 / 4 = <<12/4=3>>3 days.
+However, they need to include time for breaks and lunch. Every hour they want to include a 10-minute break, so 12 total hours x 10 minutes = <<12*10=120>>120 extra minutes for breaks.
+They also want to include 3 10-minute snack breaks, 3 x 10 minutes = <<3*10=30>>30 minutes.
+And they want to include 30 minutes for lunch each day, so 120 minutes for breaks + 30 minutes for snack breaks + 30 minutes for lunch = 180 minutes, or 180 / 60 minutes per hour = 3 extra hours.
+So Angelo and Melanie want to plan 12 hours to study + 3 hours of breaks = <<12+3=15>>15 hours total.
+They want to study no more than 4 hours each day, 15 hours / 4 hours each day = <<15/4=3.75>>3.75
+They will need to plan to study 4 days to allow for all the time they need. The answer is 4.
+
+Q: Mark's basketball team scores 25 2 pointers, 8 3 pointers and 10 free throws.  Their opponents score double the 2 pointers but half the 3 pointers and free throws.  What's the total number of points scored by both teams added together?
+A: Mark's team scores 25 2 pointers, meaning they scored 25*2= <<25*2=50>>50 points in 2 pointers.
+His team also scores 6 3 pointers, meaning they scored 8*3= 24 points in 3 pointers
+They scored 10 free throws, and free throws count as one point so they scored 10*1=<<10*1=10>>10 points in free throws.
+All together his team scored 50+24+10= <<50+24+10=84>>84 points
+Mark's opponents scored double his team's number of 2 pointers, meaning they scored 50*2=<<50*2=100>>100 points in 2 pointers.
+His opponents scored half his team's number of 3 pointers, meaning they scored 24/2= <<24/2=12>>12 points in 3 pointers.
+They also scored half Mark's team's points in free throws, meaning they scored 10/2=<<10/2=5>>5 points in free throws.
+All together Mark's opponents scored 100+12+5=<<100+12+5=117>>117 points
+The total score for the game is both team's scores added together, so it is 84+117=<<84+117=201>>201 points. The answer is 201.
+
+Q: Megan pays $16 for a shirt that costs $22 before sales. What is the amount of the discount?
+A: Let x be the amount of the discount.
+We have, 22 - x = $16
+We change the writing of the equation:
+22 - x + x = 16 + x
+So, 22 = 16 + x
+We then Remove 16 from both sides:
+22 - 16 = 16 + x - 16
+So, 22 - 16 = x
+So, the amount of the discount is x = $<<6=6>>6. The answer is 6.
+
+Q: A group of 4 fruit baskets contains 9 apples, 15 oranges, and 14 bananas in the first three baskets and 2 less of each fruit in the fourth basket. How many fruits are there?
+A: For the first three baskets, the number of apples and oranges in one basket is 9+15=<<9+15=24>>24
+In total, together with bananas, the number of fruits in one basket is 24+14=<<24+14=38>>38 for the first three baskets.
+Since there are three baskets each having 38 fruits, there are 3*38=<<3*38=114>>114 fruits in the first three baskets.
+The number of apples in the fourth basket is 9-2=<<9-2=7>>7
+There are also 15-2=<<15-2=13>>13 oranges in the fourth basket
+The combined number of oranges and apples in the fourth basket is 13+7=<<13+7=20>>20
+The fourth basket also contains 14-2=<<14-2=12>>12 bananas.
+In total, the fourth basket has 20+12=<<20+12=32>>32 fruits.
+The four baskets together have 32+114=<<32+114=146>>146 fruits. The answer is 146.

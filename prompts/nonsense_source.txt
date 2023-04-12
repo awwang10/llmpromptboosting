@@ -1,0 +1,34 @@
+Compose a nonsensical multiple choice question, and a nonsense explanation followed by a specific answer, which is one of the available choices. Do NOT answer with "none of the above". 
+Question: What is the capital of the country of Flibbertigibbet?
+A) Gigglemug
+B) Snickerdoodle
+C) Wibblewobble
+D) Flibbertigibbet City
+
+Explanation: Flibbertigibbet is a fictional country that exists only in the realm of the imagination. It has no capital, as it is not a real place. However, for the purposes of this question, we will pretend that Flibbertigibbet City is the capital of Flibbertigibbet.
+
+Answer: D) Flibbertigibbet City
+
+
+
+
+Compose a nonsensical question that has an integer solution, and a nonsensical but responsive explanation followed by a specific integer solution.
+Question: How many jellybeans are in a jar of quibble?
+A) 5
+B) 10
+C) 15
+D) 20
+
+Explanation: Quibble is a fictional substance that has no real-world properties, including a capacity to hold jellybeans. However, for the purpose of this question, we will pretend that a jar of quibble can hold a certain number of jellybeans.
+
+Answer: B) 10
+
+
+
+
+Compose a nonsensical open-ended question that has an integer solution, and a nonsensical but responsive explanation followed by a specific integer solution. The question should NOT be a multiple choice question.
+Question: How many lollipops are in a pile of fluffernutter?
+
+Explanation: Fluffernutter is a fictional substance that does not exist in the real world, and thus it is impossible for it to hold any lollipops. But for the purpose of this question, let's consider a pile of fluffernutter is holding lollipops.
+
+Answer: 17

@@ -1,0 +1,87 @@
+Q: You can buy 4 apples or 1 watermelon for the same price. You bought 36 fruits evenly split between oranges, apples and watermelons, and the price of 1 orange is $0.50. How much does 1 apple cost if your total bill was $66?
+A: If 36 fruits were evenly split between 3 types of fruits, then I bought 36/3 = <<36/3=12>>12 units of each fruit
+If 1 orange costs $0.50 then 12 oranges will cost $0.50 * 12 = $<<0.5*12=6>>6
+If my total bill was $66 and I spent $6 on oranges then I spent $66 - $6 = $<<66-6=60>>60 on the other 2 fruit types.
+Assuming the price of watermelon is W, and knowing that you can buy 4 apples for the same price and that the price of one apple is A, then 1W=4A1
+If we know we bought 12 watermelons and 12 apples for $60, then we know that $60 = 12W + 12A
+Knowing that 1W=4A, then we can convert the above to $60 = 12(4A) + 12A
+$60 = 48A + 12A
+$60 = <<60=60>>60A
+Then we know the price of one apple (A) is $60/60= $<<60/60=1>>1. The answer is 1.
+
+Q: Bella has two times as many marbles as frisbees. She also has 20 more frisbees than deck cards. If she buys 2/5 times more of each item, what would be the total number of the items she will have if she currently has 60 marbles?
+A: When Bella buys 2/5 times more marbles, she'll have increased the number of marbles by 2/5*60 = <<2/5*60=24>>24
+The total number of marbles she'll have is 60+24 = <<60+24=84>>84
+If Bella currently has 60 marbles, and she has two times as many marbles as frisbees, she has 60/2 = <<60/2=30>>30 frisbees.
+If Bella buys 2/5 times more frisbees, she'll have 2/5*30 = <<2/5*30=12>>12 more frisbees.
+The total number of frisbees she'll have will increase to 30+12 = <<30+12=42>>42
+Bella also has 20 more frisbees than deck cards, meaning she has 30-20 = <<20-10=10>>10 deck cards
+If she buys 2/5 times more deck cards, she'll have 2/5*10 = <<2/5*10=4>>4 more deck cards.
+The total number of deck cards she'll have is 10+4 = <<10+4=14>>14
+Together, Bella will have a total of 14+42+84 = <<14+42+84=140>>140 items. The answer is 140.
+
+Q: Susy goes to a large school with 800 students, while Sarah goes to a smaller school with only 300 students.  At the start of the school year, Susy had 100 social media followers.  She gained 40 new followers in the first week of the school year, half that in the second week, and half of that in the third week.  Sarah only had 50 social media followers at the start of the year, but she gained 90 new followers the first week, a third of that in the second week, and a third of that in the third week.  After three weeks, how many social media followers did the girl with the most total followers have?
+A: After one week, Susy has 100+40 = <<100+40=140>>140 followers.
+In the second week, Susy gains 40/2 = <<40/2=20>>20 new followers.
+In the third week, Susy gains 20/2 = <<20/2=10>>10 new followers.
+In total, Susy finishes the three weeks with 140+20+10 = <<140+20+10=170>>170 total followers.
+After one week, Sarah has 50+90 = <<50+90=140>>140 followers.
+After the second week, Sarah gains 90/3 = <<90/3=30>>30 followers.
+After the third week, Sarah gains 30/3 = <<30/3=10>>10 followers.
+So, Sarah finishes the three weeks with 140+30+10 = <<140+30+10=180>>180 total followers.
+Thus, Sarah is the girl with the most total followers with a total of 180. The answer is 180.
+
+Q: Mark's basketball team scores 25 2 pointers, 8 3 pointers and 10 free throws.  Their opponents score double the 2 pointers but half the 3 pointers and free throws.  What's the total number of points scored by both teams added together?
+A: Mark's team scores 25 2 pointers, meaning they scored 25*2= <<25*2=50>>50 points in 2 pointers.
+His team also scores 6 3 pointers, meaning they scored 8*3= 24 points in 3 pointers
+They scored 10 free throws, and free throws count as one point so they scored 10*1=<<10*1=10>>10 points in free throws.
+All together his team scored 50+24+10= <<50+24+10=84>>84 points
+Mark's opponents scored double his team's number of 2 pointers, meaning they scored 50*2=<<50*2=100>>100 points in 2 pointers.
+His opponents scored half his team's number of 3 pointers, meaning they scored 24/2= <<24/2=12>>12 points in 3 pointers.
+They also scored half Mark's team's points in free throws, meaning they scored 10/2=<<10/2=5>>5 points in free throws.
+All together Mark's opponents scored 100+12+5=<<100+12+5=117>>117 points
+The total score for the game is both team's scores added together, so it is 84+117=<<84+117=201>>201 points. The answer is 201.
+
+Q: The total average age of three friends is 40. Jared is ten years older than Hakimi, and Molly's age is 30. How old is Hakimi?
+A: The total age for the three friends is 40*3 = <<40*3=120>>120
+If Molly's age is 30, then Jared and Hakimi have a total age of 120-30 = 90.
+Let's say the age of Hakimi is x.
+Since Jared is 10 years older than Hakimi, Jared is x+10 years old.
+Jared and Hakimi's total age is x+(x+10) = 90
+This translates to 2x=90-10
+2x=80
+Hakimi's age is x=80/2
+This gives us x=<<40=40>>40, which is Hamkimi's age. The answer is 40.
+
+Q: Together 3 friends watched 411 short videos. Kelsey watched 43 more than Ekon. Ekon watched 17 less than Uma. How many videos did Kelsey watch?
+A: Let U = the number of videos Uma watched
+Ekon = U - 17
+Kelsey = (U - 17) + 43 = U + <<(-17)+43=26>>26
+U + U - 17 + U + 26 = 411
+3U + 9 = 411
+3U = 402
+U = <<134=134>>134
+Kelsey = 134 + 26 = <<134+26=160>>160 videos
+Kelsey watched 160 videos. The answer is 160.
+
+Q: Sam bought a dozen boxes, each with 30 highlighter pens inside, for $10 each box. He rearranged five of these boxes into packages of six highlighters each and sold them for $3 per package. He sold the rest of the highlighters separately at the rate of three pens for $2. How much profit did he make in total, in dollars?
+A: Sam bought 12 boxes x $10 = $<<12*10=120>>120 worth of highlighters.
+He bought 12 * 30 = <<12*30=360>>360 highlighters in total.
+Sam then took 5 boxes × 6 highlighters/box = <<5*6=30>>30 highlighters.
+He sold these boxes for 5 * $3 = $<<5*3=15>>15
+After selling these 5 boxes there were 360 - 30 = <<360-30=330>>330 highlighters remaining.
+These form 330 / 3 = <<330/3=110>>110 groups of three pens.
+He sold each of these groups for $2 each, so made 110 * 2 = $<<110*2=220>>220 from them.
+In total, then, he earned $220 + $15 = $<<220+15=235>>235.
+Since his original cost was $120, he earned $235 - $120 = $<<235-120=115>>115 in profit. The answer is 115.
+
+Q: Megan pays $16 for a shirt that costs $22 before sales. What is the amount of the discount?
+A: Let x be the amount of the discount.
+We have, 22 - x = $16
+We change the writing of the equation:
+22 - x + x = 16 + x
+So, 22 = 16 + x
+We then Remove 16 from both sides:
+22 - 16 = 16 + x - 16
+So, 22 - 16 = x
+So, the amount of the discount is x = $<<6=6>>6. The answer is 6.

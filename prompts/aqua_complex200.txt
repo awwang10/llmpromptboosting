@@ -1,0 +1,71 @@
+Q: A works twice as fast as B.If B can complete a work in 18 days independently,the number of days in which A and B can together finish the work is: Answer Choices: (a) 4 days (b) 6 days (c) 8 days (d) 10 days (e) 12 days
+A: Explanation:
+Ratio of rates of working of A and B =2:1. So, ratio of times taken =1:2
+A's 1 day's work=1/9
+B's 1 day's work=1/18
+(A+B)'s 1 day's work=(1/9 + 1/18)=3/18=1/6
+so, A and B together can finish the work in 6 days
+ANSWER IS B. The answer is (b).
+
+Q: Two brother X and Y appeared for an exam. The probability of selection of X is 1/5 and that of B is 2/3. Find the probability that both of them are selected. Answer Choices: (a) 2/69 (b) 2/20 (c) 2/18 (d) 2/29 (e) 2/15
+A: Explanation:
+Let A be the event that X is selected and B is the event that Y is selected.
+P(A) = 1/5, P(B) = 2/3.
+Let C be the event that both are selected.
+P(C) = P(A) Ã— P(B) as A and B are independent events:
+= (1/5) Ã— (2/3) = 2/15
+Answer: (e) 2/15. The answer is (e).
+
+Q: If two numbers, a and b, are to be chosen from a set of 4 consecutive integers starting with 1 and a set of three consecutive even integers starting with 8, respectively, what is the probability that b/a will not be an integer? Answer Choices: (a) 2/12 (b) 3/12 (c) 4/12 (d) 1/2 (e) 2/3
+A: a is from the following set {1,2,3,4}
+b is from the following set {8,10,12}
+The total number of ways of choosing 2 integers, one from each set is 4*3 = 12 ways.
+The possibilities where b/a is not an integer is for the following outcomes:
+{b,a} = {8,3},{10,3},{10,4} = 3 ways
+Thus the probability is 3/12 = 1/4
+The answer is B. The answer is (b).
+
+Q: A , B , and C started a partnership business by investing $27,000 , $72,000 , and $81,000 respectively. At the end of the year , the profit was distributed among them. If C's share of profit is $18,000, what is the total profit? Answer Choices: (a) $24,000 (b) $32,000 (c) $40,000 (d) $48,000 (e) $56,000
+A: A:B:C = 27000:72000:81000 which is a ratio of 3:8:9.
+Let the total profit be x.
+x * 9/20 = 18000
+x = 18000*20/9 = 40,000.
+The answer is C. The answer is (c).
+
+Q: When positive integer N is divided by positive integer J, the remainder is 10. If N/J = 134.08, what is value of J? Answer Choices: (a) 125 (b) 56 (c) 78 (d) 112 (e) 175
+A: When a number is divided by another number, we can represent it as : Dividend = Quotient * Divisor + Remainder
+So, Dividend/Divisor = Quotient + Remainder/Divisor
+Given that N/J = 134.08
+Here 134 is the quotient.
+Given that Remainder = 10
+So, 134.08 = 134 + 10/J
+So, J = 125 ANS A. The answer is (a).
+
+Q: A is thrice as good as B in work. A is able to finish a job in 60 days less than B. They can finish the work in - days if they work together. Answer Choices: (a) 18 days (b) 22 Â½ days (c) 24 days (d) 26 days (e) 28 days
+A: Explanation :
+If A completes a work in 1 day, B completes the same work in 3 days
+Hence, if the difference is 2 days, B can complete the work in 3 days
+=> if the difference is 60 days, B can complete the work in 90 days
+=> Amount of work B can do in 1 day= 1/90
+Amount of work A can do in 1 day = 3 Ã— (1/90) = 1/30
+Amount of work A and B can together do in 1 day = 1/90 + 1/30 = 4/90 = 2/45
+=> A and B together can do the work in 45/2 days = 22 Â½ days
+Answer IS B. The answer is (b).
+
+Q: The average age of a class of 39 students is 15 years. If the age of the teacher be included, then the average increases by3 months. Find the age of the teacher. Answer Choices: (a) 20 (b) 23 (c) 25 (d) 21 (e) 22
+A: Total age of 39 persons = (39 x 15) years
+= 585 years.
+Average age of 40 persons= 15 yrs 3 months
+= 61/4 years.
+Total age of 40 persons = (61/4 )x 40) years= 610 years.
+:. Age of the teacher = (610 - 585) years=25 years.
+Answer is C. The answer is (c).
+
+Q: A rectangular photograph is surrounded by a border that is 1 inch wide on each side. The total area of the photograph and the border is M square inches. If the border had been 3 inches wide on each side, the total area would have been (M + 64) square inches. What is the perimeter of the photograph, in inches? Answer Choices: (a) 16 (b) 24 (c) 32 (d) 40 (e) 48
+A: Let x and y be the width and length of the photograph.
+(x+2)(y+2)=M and so (1) xy + 2x + 2y + 4 = M
+(x+6)(y+6)=M and so (2) xy + 6x + 6y + 36 = M+64
+Let's subtract equation (1) from equation (2).
+4x + 4y + 32 = 64
+2x + 2y = 16, which is the perimeter of the photograph.
+The answer is A. The answer is (a).

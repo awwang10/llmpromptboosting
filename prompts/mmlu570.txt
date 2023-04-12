@@ -1,0 +1,15 @@
+Q: Which of the following represents an accurate statement concerning arthropods? (a) They possess an exoskeleton composed primarily of peptidoglycan. (b) They possess an open circulatory system with a dorsal heart. (c) They are members of a biologically unsuccessful phylum incapable of exploiting diverse habitats and nutrition sources. (d) They lack paired, jointed appendages.
+A: Arthropods have an exoskeleton. This exoskeleton is not composed primarily of peptidoglycan. Arthropods have an open circulatory system with a dorsal heart. Arthropods are very successful in exploiting diverse habitats and nutrition sources. Arthropods have paired, jointed appendages. The answer is (b).
+
+Q: The energy for all forms of muscle contraction is provided by: (a) ATP. (b) ADP. (c) phosphocreatine. (d) oxidative phosphorylation.
+A: The energy for all forms of muscle contraction is provided by ATP. The answer is (a).
+
+Q: For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I asked for a cigarette from the guy outside the store. Scenario 2 | When the security guard left his post, I pocketed a rare coin. (a) Wrong, Wrong (b) Wrong, Not wrong (c) Not wrong, Wrong (d) Not wrong, Not wrong
+A: The main character in Scenario 1 does not do something morally wrong, according to ordinary moral standards in the US as of 2020. In Scenario 2, the main character does something clearly morally wrong, according to ordinary moral standards in the US as of 2020. The answer is (c).
+
+Q: Consider the following AR(1) model with the disturbances having zero mean and unit variance
+
+yt = 0.2 + 0.4 yt-1 + ut
+
+The (unconditional) mean of y will be given by (a) 0.2 (b) 0.4 (c) 0.5 (d) 0.33
+A: We start with the unconditional mean of y, which is the average value of y across all possible values of time. Since the disturbances have zero mean and unit variance, the mean of y is determined only by the coefficients of the AR(1) model. We have yt = 0.2 + 0.4 yt-1. So, the mean of y (i.e. the unconditional mean) is given by 0.2 + 0.4*(mean of y). This is a recursive equation, so we can solve it by iteration. We start with the initial guess of 0.2, then we repeat the equation and set the mean of y to be 0.2 + 0.4*(0.2) = 0.33. We repeat the equation again and set the mean of y to be 0.2 + 0.4*(0.33) = 0.33. We can see that the mean of y is converging to 0.33, so the answer is (d).

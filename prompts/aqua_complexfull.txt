@@ -1,0 +1,87 @@
+Q: The sum of the terms of an infinite G.P is 7 and the sum of the cubes of the terms is 1,225. Find the first term of the series. Answer Choices: (a) 35/3 (b) 35/2 (c) 15/2 (d) 9/4 (e) 7/4
+A: S a = a/ ( 1 – r ) = 7 …………. (1)
+Sum to infinity of the cubes = a 3 / 1 –r 3 = 1,225
+From (1) a 3 / ( 1 – r ) 3 = 7 3 = 343
+Therefore, ( 1 – r ) 3 / 1 – r 3 = 1225/343,
+(1+ r 2 -2r)/ ( 1 + r 2 + r ) = 25/7
+7 + 7 r 2 –14r = 25 + 25 r + 25 r 2
+18 r 2 +39r + 18 = 0, on solving r = -3/2 or -2/3
+for an infinite G.P | r | < 1, r = - 2/3
+Therefore, a / [ 1 – ( - 2/3 ) ] = 7, a = 7 * 5/3 = 35/3 ANSWER: a. The answer is (a).
+
+Q: A factory has three types of machines, each of which works at its own constant rate. If 7 Machine As and 11 Machine Bs can produce 261 widgets per hour, and if 8 Machine As and 22 Machine Cs can produce 600 widgets per hour, how many widgets could one machine A, one Machine B, and one Machine C produce in one 8-hour day? Answer Choices: (a) 408 (b) 475 (c) 550 (d) 625 (e) 700
+A: Let Machine A produce A widgets per hour. B produce B widgets per hour and C produce C widgets per hour.
+7A+11B=261 ---(1)
+8A+22C=600 ---(2)
+Dividing (2) by 2
+4A+11C=300.....(3)
+Adding (1)(3)
+11A+11B+11C = 561
+A+B+C=51 per hour
+So for eight hrs = 51*8 = 408 = Answer = a. The answer is (a).
+
+Q: Three boys are ages 4, 6 and 7 respectively. Three girls are ages 5, 8 and 9, respectively. If two of the boys and two of the girls are randomly selected and the sum of the selected children's ages is e, what is the difference between the probability that e is even and the probability that e is odd? Answer Choices: (a) 1/9 (b) 1/6 (c) 2/9 (d) 1/4 (e) 1/2
+A: Age of Boys e:4, 6, 7
+Sum of ages taken 2 at a time: 10,13,11
+Ages of Girls:5, 8, 9
+Sum of ages taken 2 at a time: 13,17,14
+9 Combinations of sum between sets(10,12,11)(13,17,14)
+=23,27,24- 16,30,17- 24,28,25
+Prob(Even)= 5/9
+Prob(Odd) =4/9
+Answer=5/9 - 4/9 = 1/9. The answer is (a).
+
+Q: The weights of one liter vegetable ghee packet of two brands ‘A’ and ‘B’ are 800 gm and 850 gm respectively. If they are mixed in the ratio of 3 : 2 by volumes to form a mixture of 3 liters, what is the weight (in kg) of the mixture? Answer Choices: (a) 3.84 (b) 1.75 (c) 3.52 (d) 2.46 (e) None of these
+A: Here's how I did it. My notes from reading the problem were:
+1L A = 800 gm
+1L B = 850 gm
+We are mixing five parts (3 parts A plus 2 parts B, 5 parts total) to get 3L, so 5x = 3 ---> x = 3/5. Each part is 3/5 of a liter.
+So if we have 3 parts A, we have 800*3*(3/5) = 1440
+If we have 2 parts B, we have 850*2*(3/5) = 1020
+1440 + 1020 = 2460
+Solving for units gives us 2.46
+So the answer is d. The answer is (d).
+
+Q: What is the total number of X integers between 100 and 200 that are divisible by 3? Answer Choices: (a) 33 (b) 32 (c) 31 (d) 30 (e) 29
+A: yes there is a different way of arriving at that answer ....
+u can also use airthmetic progression to get the answer
+since the first term to be divisble by 3 is 102 ..take that as A .. the starting no
+and since 198 is the last digit to be divisible by 3 take that as N ...
+since the difference is 3 take that as D
+no u have to find what term is 198 take that as nth term
+the formula for that is N = A + (n-1) * d
+198 = 102 +(n-1) * 3
+from this u get n =33. The answer is (a).
+
+Q: An automobile parts supplier charges $25 per package of gaskets. When a customer orders more than 10 packages of gaskets, the supplier charges 4/5 the price for each package in excess of 10. During a certain week, the supplier sold 60 packages of gaskets. If 30 percent of the gaskets went to Company X, 15 percent to Company Y, and the rest to Company Z, what was the total amount, in dollars, that the parts supplier received in payment for the gaskets? Answer Choices: (a) 1305 (b) 1375 (c) 1345 (d) 1415 (e) 1455
+A: $25 per packet of gasket in case a customer orders less than 10
+in case a customer orders > 10 price per gasket = 25*4/5=20
+a certain week the supplier sold 60 gasket
+1.he sold 30 % of the gaskets to X = 18 gaskets = 25*10 + 20 *8 = 250 + 160 = 410
+2.he sold 15 % of the gaskets to Y = 9 gaskets = 25*9= 225
+3.he sold remaining 55% to z =33 gaskets = 25*10 =250 + 20*23=710
+thus ,total money earned
+410+225+710 = 1345
+The answer is (c).
+
+Q: A company spends an average of $500 for its 20 employees's salaries and an average of $100 for its 5 drivers' salaries. What is the average expenditure of the company? Answer Choices: (a) $360 (b) $290 (c) $420 (d) $600 (e) $240
+A: Number of employees is 20
+Their average salary is $500
+Number of drivers is 5
+Their average salary is $100
+Total salary of the employees is 20*500=$10,000
+Total salary of the drivers is 5*100=$500
+Total expenditure for company is 10,000+500=$10,500
+Average expenditure is 10,500/20+5=$420
+The answer is (c).
+
+Q: The minute hand of a clock overtakes the hour hand at intervals of 65 minutes of the correct time. How much a day does the clock gain or lose? Answer Choices: (a) (10 + 10/143 )min (b) (10 + 10/843 )min (c) (10 + 19/143 )min (d) (90 + 10/143 )min (e) (10 + 10/193 )min
+A: In a correct clock, the minute hand gains 55 min. spaces over the hour hand in 60 minutes.
+To be together again, the minute hand must gain 60 minutes over the hour hand.
+55 minutes are gained in 60 min.
+60 min. are gained in [(60/55) * 60] min = min.
+But they are together after 65 min.
+Therefore, gain in 65 minutes = = min.
+Gain in 24 hours = = 1440/143 min.
+Therefore, the clock gains (10 + 10/143 )minutes in 24 hours.
+Answer: (a) (10 + 10/143 )min. The answer is (a).
