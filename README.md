@@ -4,7 +4,9 @@ Silviu Pitis, Michael R. Zhang, Andrew Wang, Jimmy Ba
 
 [Arxiv](https://arxiv.org/abs/2304.05970)
 
-This is code for our paper on prompt boosting. Please see our paper for detailed experiments.
+<img src="figs/illustration.png" width="500"> 
+
+This repo contains code for our paper on prompt boosting. Please see the paper for detailed experiments and ablations.
 This code is built off the official implementation of [Large Language Models are Zero-Shot Reasoners](https://github.com/kojima-takeshi188/zero_shot_cot).
 
 ## Abstract
